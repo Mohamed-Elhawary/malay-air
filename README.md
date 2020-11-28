@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/186c8e26-3f19-4411-9f8d-45f1422c2165/deploy-status)](https://app.netlify.com/sites/malayair/deploys)  
 
-One HTML5 Landing Page Template for a Foreign Airline.  
+One HTML5 landing page template for a foreign airline.  
 (Not Responsive)  
 
 ![Screenshot](mockup.png)  
