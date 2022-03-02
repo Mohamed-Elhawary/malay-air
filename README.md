@@ -14,7 +14,7 @@ One HTML5 landing page template for a foreign airline.
 
 ## Getting Started
 
-You can try the Template from [here](https://mohamed-elhawary.github.io/malay-air/)
+You can try the Template from [here](https://malayair.netlify.app/)
 
 ## Prerequisites
 
