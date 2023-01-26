@@ -6,20 +6,14 @@ Malay Air is a landing page website for a foreign airline.
 
 (Not Responsive)  
 
+You can view the website from [here](https://malayair.netlify.app/)
+
 ![Screenshot](mockup.png)  
 
 ## Demo
  
 ![malay-air-your-trip-is-perfect-w-min](https://user-images.githubusercontent.com/69651552/95020532-14322f80-066c-11eb-946f-4844119342e8.gif)
 
-
-## Getting Started
-
-You can try the Template from [here](https://malayair.netlify.app/)
-
-## Prerequisites
-
-Just Modern Browser like "Chrome" and a Code Editor for Deployment and Develop.
 
 ## Built With
 
@@ -29,28 +23,28 @@ Just Modern Browser like "Chrome" and a Code Editor for Deployment and Develop.
 
 ## Libraries  
 
-* jQuery.js
-* html5shiv.js
-* Font Awesome  
-* Normalize.css
+* [jQuery.js](https://jquery.com/)
+* [html5shiv.js](https://github.com/aFarkas/html5shiv)
+* [Font Awesome](https://fontawesome.com/)  
+* [Normalize.css](https://necolas.github.io/normalize.css/)
   
 ## Plugins 
 
-* BxSlider.js
-* mixitup.js
-* nicescroll.js  
+* [BxSlider.js](https://bxslider.com/)
+* [mixitup.js](https://www.kunkalabs.com/mixitup/)
+* [nicescroll.js](https://nicescroll.areaaperta.com/)   
 
 ## Author
 
-* Mohamed Elhawary  
+* [Mohamed Elhawary](https://www.linkedin.com/in/mohamed-elhawary14/)
 
-## Contact Me  
+## Contact me through my social accounts
 
 * Email: mohamed.k.elhawary@gmail.com
-
-## Deploy with Me
-
-Feel Free to Deploy it with me, send Issues or a Pull Request and i'll deal with you, just test it First.
+* [LinkedIn](https://www.linkedin.com/in/mohamed-elhawary14/)
+* [Github](https://github.com/Mohamed-Elhawary)  
+* [Behance](https://www.behance.net/mohamed-elhawary14)
+* [Codepen](https://codepen.io/Mohamed-ElHawary) 
 
 ## License
 
