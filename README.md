@@ -30,9 +30,9 @@ You can view the website from [here](https://malayair.netlify.app/)
   
 ## Plugins 
 
-* [BxSlider.js](https://bxslider.com/)
-* [mixitup.js](https://www.kunkalabs.com/mixitup/)
-* [nicescroll.js](https://nicescroll.areaaperta.com/)   
+* [Bx Slider](https://bxslider.com/)
+* [Mixitup](https://www.kunkalabs.com/mixitup/)
+* [Nice Scroll](https://nicescroll.areaaperta.com/)   
 
 ## Author
 
