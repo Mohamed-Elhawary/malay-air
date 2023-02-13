@@ -12,21 +12,21 @@ You can view the website from [here](https://malayair.netlify.app/)
 
 ## Demo
  
-![malay-air-your-trip-is-perfect-w-min](https://user-images.githubusercontent.com/69651552/95020532-14322f80-066c-11eb-946f-4844119342e8.gif)
+![Demo](https://user-images.githubusercontent.com/69651552/95020532-14322f80-066c-11eb-946f-4844119342e8.gif)
 
 
-## Built With
+## Built with
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JS  
 
 ## Libraries  
 
-* [jQuery.js](https://jquery.com/)
-* [html5shiv.js](https://github.com/aFarkas/html5shiv)
+* [jQuery](https://jquery.com/)
+* [html5shiv](https://github.com/aFarkas/html5shiv)
 * [Font Awesome](https://fontawesome.com/)  
-* [Normalize.css](https://necolas.github.io/normalize.css/)
+* [Normalize](https://necolas.github.io/normalize.css/)
   
 ## Plugins 
 
@@ -41,7 +41,7 @@ You can view the website from [here](https://malayair.netlify.app/)
 ## Contact me through my social accounts
 
 * Email: mohamed.k.elhawary@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/mohamed-elhawary14/)
+* [Linkedin](https://www.linkedin.com/in/mohamed-elhawary14/)
 * [Github](https://github.com/Mohamed-Elhawary)  
 * [Behance](https://www.behance.net/mohamed-elhawary14)
 * [Codepen](https://codepen.io/Mohamed-ElHawary) 
